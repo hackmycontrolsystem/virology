@@ -37,3 +37,5 @@ while t<45:
 #print("N for a = 0.2 = ",N," people")
 #print("N for a = 0.19 = ",N2," people")
 print("Difference = ",N-N2," people")
+
+#Source: https://www.wired.com/story/how-fast-does-a-virus-spread/
